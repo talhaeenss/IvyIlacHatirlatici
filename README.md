@@ -5,7 +5,7 @@ Akıllı ilaç takip ve hatırlatma uygulaması - İlaçlarınızı hiç unutmay
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-green.svg)](https://android.com)
 [![Java](https://img.shields.io/badge/Java-8-orange.svg)](https://www.oracle.com/java/)
-[![GitHub](https://img.shields.io/github/stars/talhaeenss/IvyIlacHatirlatici?style=social)](https://github.com/talhaeenss/IvyIlacHatirlatici)
+[![GitHub](https://img.shields.io/github/stars/talhaeenss/ivy-ilac-hatirlatici?style=social)](https://github.com/talhaeenss/ivy-ilac-hatirlatici)
 
 ## 📱 Uygulama Özellikleri
 
@@ -116,10 +116,10 @@ Akıllı ilaç takip ve hatırlatma uygulaması - İlaçlarınızı hiç unutmay
 ### 🔄 Geliştirme Ortamı
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/talhaeenss/IvyIlacHatirlatici.git
+git clone https://github.com/talhaeenss/ivy-ilac-hatirlatici.git
 
 # Android Studio'da açın
-cd IvyIlacHatirlatici
+cd ivy-ilac-hatirlatici
 
 # Gradle sync yapın
 # local.properties dosyasını oluşturun (örnek: local.properties.example)
@@ -198,7 +198,7 @@ Detaylar için [LICENSE](LICENSE) dosyasını okuyun.
 **Talha Eens**
 - GitHub: [@talhaeens](https://github.com/talhaeens)
 - Email: eraslanenes195@gmail.com
-- Repository: [IvyIlacHatirlatici](https://github.com/talhaeenss/IvyIlacHatirlatici)
+- Repository: [ivy-ilac-hatirlatici](https://github.com/talhaeenss/ivy-ilac-hatirlatici)
 
 ## 🤝 Katkıda Bulunma
 
@@ -235,9 +235,9 @@ Lisans koşulları:
 
 ## 📈 İstatistikler
 
-![GitHub stars](https://img.shields.io/github/stars/talhaeenss/IvyIlacHatirlatici?style=social)
-![GitHub forks](https://img.shields.io/github/forks/talhaeenss/IvyIlacHatirlatici?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/talhaeenss/IvyIlacHatirlatici?style=social)
+![GitHub stars](https://img.shields.io/github/stars/talhaeenss/ivy-ilac-hatirlatici?style=social)
+![GitHub forks](https://img.shields.io/github/forks/talhaeenss/ivy-ilac-hatirlatici?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/talhaeenss/ivy-ilac-hatirlatici?style=social)
 
 ---
 
@@ -249,7 +249,7 @@ Lisans koşulları:
 
 ### 🔗 Bağlantılar
 
-- **Repository**: https://github.com/talhaeenss/IvyIlacHatirlatici
-- **Issues**: https://github.com/talhaeenss/IvyIlacHatirlatici/issues  
+- **Repository**: https://github.com/talhaeenss/ivy-ilac-hatirlatici
+- **Issues**: https://github.com/talhaeenss/ivy-ilac-hatirlatici/issues  
 - **License**: [Proprietary License](LICENSE)
 - **AdMob Rehberi**: [README_ADMOB.md](README_ADMOB.md)
