@@ -2,6 +2,11 @@
 
 Akıllı ilaç takip ve hatırlatma uygulaması - İlaçlarınızı hiç unutmayın!
 
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-green.svg)](https://android.com)
+[![Java](https://img.shields.io/badge/Java-8-orange.svg)](https://www.oracle.com/java/)
+[![GitHub](https://img.shields.io/github/stars/talhaeenss/IvyIlacHatirlatici?style=social)](https://github.com/talhaeenss/IvyIlacHatirlatici)
+
 ## 📱 Uygulama Özellikleri
 
 ### ⏰ Akıllı Hatırlatma Sistemi
@@ -59,6 +64,12 @@ Akıllı ilaç takip ve hatırlatma uygulaması - İlaçlarınızı hiç unutmay
 - **Arkaplan Çalışma**: Uygulama kapalıyken de aktif hatırlatma
 - **Sistem Bildirimleri**: Android bildirim panelinde görünür uyarılar
 
+### 💰 Monetizasyon
+- **Google AdMob** entegrasyonu
+- **Banner reklamlar** ana sayfada
+- **Tam ekran reklamlar** belirli aralıklarla
+- **Test modu** geliştiriciler için
+
 ## 🚀 Teknik Özellikler
 
 ### 📱 Platform Gereksinimleri
@@ -108,6 +119,8 @@ Akıllı ilaç takip ve hatırlatma uygulaması - İlaçlarınızı hiç unutmay
 git clone https://github.com/talhaeenss/IvyIlacHatirlatici.git
 
 # Android Studio'da açın
+cd IvyIlacHatirlatici
+
 # Gradle sync yapın
 # local.properties dosyasını oluşturun (örnek: local.properties.example)
 
@@ -117,6 +130,7 @@ git clone https://github.com/talhaeenss/IvyIlacHatirlatici.git
 
 ### 📁 Önemli Dosyalar
 - `local.properties.example`: AdMob ID yapılandırma örneği
+- `README_ADMOB.md`: AdMob kurulum rehberi
 - `app/proguard-rules.pro`: Release build optimizasyonları
 - `app/src/main/AndroidManifest.xml`: İzinler ve aktivite tanımları
 
@@ -127,6 +141,8 @@ ADMOB_APP_ID=your_app_id_here
 ADMOB_BANNER_ID=your_banner_id_here
 ADMOB_INTERSTITIAL_ID=your_interstitial_id_here
 ```
+
+> **💡 Detaylı AdMob kurulum rehberi için**: [README_ADMOB.md](README_ADMOB.md)
 
 ## 🔐 İzinler
 
@@ -166,25 +182,37 @@ ADMOB_INTERSTITIAL_ID=your_interstitial_id_here
 
 ## 📄 Lisans
 
-Bu proje özel bir lisans altında yayınlanmaktadır. Kullanım koşulları için lütfen geliştirici ile iletişime geçin.
+Bu proje **Proprietary License** altında yayınlanmaktadır. 
+
+⚠️ **UYARI**: Bu yazılım telif hakkı koruması altındadır. Kullanım koşulları:
+- ❌ Kopyalama yasak
+- ❌ Düzenleme yasak  
+- ❌ Dağıtım yasak
+- ❌ Ticari kullanım yasak
+- ✅ Sadece görüntüleme ve değerlendirme
+
+Detaylar için [LICENSE](LICENSE) dosyasını okuyun.
 
 ## 👤 Geliştirici
 
 **Talha Eens**
 - GitHub: [@talhaeens](https://github.com/talhaeens)
 - Email: eraslanenes195@gmail.com
+- Repository: [IvyIlacHatirlatici](https://github.com/talhaeenss/IvyIlacHatirlatici)
 
 ## 🤝 Katkıda Bulunma
 
-1. Projeyi fork edin
-2. Özellik branch'i oluşturun (`git checkout -b feature/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'i push edin (`git push origin feature/YeniOzellik`)
-5. Pull Request oluşturun
+⚠️ **Bu proje Proprietary License altında olduğu için katkı kabul edilmemektedir.**
+
+Lisans koşulları:
+1. Fork etmek yasak
+2. Pull Request göndermek yasak  
+3. Kopyalamak yasak
+4. Sadece görüntüleme ve değerlendirme izni
 
 ## 📊 Versiyon Geçmişi
 
-### v1.0.0 (İlk Sürüm)
+### v1.0.0 (İlk Sürüm) - 2024
 - ✅ Temel ilaç ekleme ve düzenleme
 - ✅ Günlük, haftalık, aylık, yıllık hatırlatmalar
 - ✅ Bildirim sistemi
@@ -192,6 +220,7 @@ Bu proje özel bir lisans altında yayınlanmaktadır. Kullanım koşulları iç
 - ✅ Material Design arayüz
 - ✅ AdMob reklam entegrasyonu
 - ✅ Android 8-14 uyumluluğu
+- ✅ Proprietary license ile koruma
 
 ## 🔮 Gelecek Özellikler
 
@@ -204,8 +233,23 @@ Bu proje özel bir lisans altında yayınlanmaktadır. Kullanım koşulları iç
 - [ ] İstatistik ve raporlar
 - [ ] Çoklu dil desteği
 
+## 📈 İstatistikler
+
+![GitHub stars](https://img.shields.io/github/stars/talhaeenss/IvyIlacHatirlatici?style=social)
+![GitHub forks](https://img.shields.io/github/forks/talhaeenss/IvyIlacHatirlatici?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/talhaeenss/IvyIlacHatirlatici?style=social)
+
 ---
 
 💊 **Sağlığınız bizim önceliğimiz!** 
 
 *İlaçlarınızı zamanında almayı unutmayın!*
+
+---
+
+### 🔗 Bağlantılar
+
+- **Repository**: https://github.com/talhaeenss/IvyIlacHatirlatici
+- **Issues**: https://github.com/talhaeenss/IvyIlacHatirlatici/issues  
+- **License**: [Proprietary License](LICENSE)
+- **AdMob Rehberi**: [README_ADMOB.md](README_ADMOB.md)
