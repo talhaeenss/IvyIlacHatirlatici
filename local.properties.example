@@ -1,0 +1,20 @@
+# Android SDK location
+sdk.dir=/path/to/your/android/sdk
+
+# =================================================
+# AdMob Configuration - REQUIRED!
+# =================================================
+# Get these from https://admob.google.com
+# Create your app and ad units, then replace with your IDs
+
+ADMOB_APP_ID=ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX
+ADMOB_BANNER_ID=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+ADMOB_INTERSTITIAL_ID=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+
+# =================================================
+# Instructions:
+# =================================================
+# 1. Copy this file to local.properties (without .example)
+# 2. Replace XXX values with your real AdMob IDs
+# 3. DO NOT commit local.properties to Git!
+# 4. Add local.properties to your .gitignore
